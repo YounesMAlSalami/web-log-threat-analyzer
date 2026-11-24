@@ -1,4 +1,4 @@
-# Assignment 07 — Automated Log Analyzer
+Automated Log Analyzer
 
 **Author:** Younes Al-Salami  
 **Track:** Cybersecurity Programming Bootcamp  
